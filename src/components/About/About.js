@@ -47,7 +47,7 @@ function About() {
           </h1>
           <Toolstack />
 
-          <Github />
+          {/** GitHub calendar removed per user request */}
         </Container>
       </Container>
     </>
