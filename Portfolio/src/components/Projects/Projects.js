@@ -20,7 +20,7 @@ function Projects() {
               imgPath={chatifyImg}
               isBlog={false}
               title="Dutyrun"
-              description="A comprehensive duty management app for task assignments, tracking, and collaborative workflows. Real-time updates, RBAC, deadlines, and team tools."
+              description="Duty management web app built with React/Next.js, integrating REST APIs and role-based access; deployed via Vercel with CI/CD using GitHub Actions."
               ghLink="https://github.com/luv2425"
               demoLink="https://dutyrun.vercel.app"
             />
@@ -31,7 +31,7 @@ function Projects() {
               imgPath={blogImg}
               isBlog={false}
               title="Portfolio Website"
-              description="Personal portfolio site with clean, responsive layout, smooth scrolling, and micro-interactions to highlight skills and projects."
+              description="Responsive personal portfolio using React, modern CSS and component-driven UI; deployed on Vercel with automated workflows."
               ghLink="https://github.com/luv2425"
               demoLink="https://abu-portfolio-three.vercel.app/"
             />
@@ -42,7 +42,7 @@ function Projects() {
               imgPath={editorImg}
               isBlog={false}
               title="n8n Automation Workflows"
-              description="Automated workflows for email responses and data sync using n8n, APIs, webhooks, and JS functions. Focus on low-code automation and integrations."
+              description="Automated workflows in n8n for email handling and data sync using APIs, webhooks and JS functions; accelerated operations with Python scripting."
               ghLink="https://github.com/luv2425"
             />
           </Col>
@@ -52,7 +52,7 @@ function Projects() {
               imgPath={leafImg}
               isBlog={false}
               title="To-Do Application"
-              description="CRUD productivity app with intuitive state management, component-driven UI, accessibility, and responsive patterns."
+              description="CRUD productivity app with React, demonstrating component state management, accessibility and responsive UI patterns; API-ready design."
               ghLink="https://github.com/luv2425"
             />
           </Col>
