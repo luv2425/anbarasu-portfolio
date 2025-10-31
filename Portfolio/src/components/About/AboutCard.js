@@ -21,7 +21,7 @@ function AboutCard() {
             creating efficient, user-focused web solutions.
             <br />
             <br />
-            <span className="purple">Email</span>: anbarasuram578@gmail.com
+            <span className="purple">Email</span>: anbarasuram678@gmail.com
             <br />
             <span className="purple">Mobile</span>: +91 6374343174
           </p>
